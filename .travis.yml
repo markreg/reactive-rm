@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- '0.10'
+branches:
+  only:
+  - master
+env:
+  global:
+  - secure: gLTD2vAcmHjyI0G8j/2VvDP7VqQg52XNEkCpGvOCxygRtRpRJKkPwwFzbILAwFrjhuLU/DCfXmfJaKK0CV/RLGRESnGnYsaIKx/h3TpqohL2MJQxOukh3YDtaCZnqNJ6uhVMlwrrgCbCgapzyRVUWvSSetWCK2at7EsxdBYKiZY=
+  - secure: lntjwnsmy17Z+Qa/Nd36e9KTH/c1tbQ66J0uFu/R/j/hzAgt1a2+lnABsalHgyHll81tACUtpqDKx+n3+uS926ge8TqX8NB558mJnK7hNrAHBDkpS8g+1wvxfnzMsC/P2DfOtQvYaltVHttHxCv7NPIWV1A1f5m2fzNilWGGaV4=
